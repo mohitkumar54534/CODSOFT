@@ -1,0 +1,46 @@
+h1{
+    text-align:center;
+    font-size:3.5em;
+    color:green;
+    color:aliceblue
+}
+.container{
+    text-align:center;
+}
+.input{
+    font-size:5em;
+    background-color:aliceblue
+}
+.button{
+    font-size:2.5em;
+}
+.container{
+    font-size:0.5em
+}
+input{
+    width: 400px;
+    border:solid;
+    padding: 30px;
+    margin: 10px;
+    cursor: pointer;
+    color:#6714c7;
+}
+
+button{
+    border: none;
+    width:4em;
+    height:3.5em;
+    margin: 5px;
+    border-radius: 70%;
+    color: #da1818;
+    font-size: 30px;
+ cursor: pointer;
+}
+body{
+    background-color:rgb(28, 126, 192);
+}
+#but{
+    width:8.5em;
+    border:none;
+
+}
